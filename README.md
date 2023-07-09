@@ -1,4 +1,12 @@
-### Hi there 👋
+<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Flower angel</a>
+
+
+- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+- ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
+- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+- ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+- - 🌱 I’m currently learning web, c++, solidity, python
 
 <!--
 **flowerangels77/flowerangels77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
